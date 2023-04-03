@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T11:53:41.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="EzL648iac9Y4sw9I6YFI" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T11:55:47.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="dQ8h497jB7-YOTlteSjS" version="21.1.2" type="github">
   <diagram name="Birds Eye View" id="2dJY-aPmXwigr7amAttw">
-    <mxGraphModel dx="1794" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="4988" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,6 +275,15 @@
         </mxCell>
         <mxCell id="melnFsx0FvC3lrg1FxyG-110" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://storage.googleapis.com/lumen5-site-images/L5-logo/L5-logo-header.png;" vertex="1" parent="1">
           <mxGeometry x="455.47" y="482.52" width="137.6" height="80.7" as="geometry" />
+        </mxCell>
+        <mxCell id="melnFsx0FvC3lrg1FxyG-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Communication and Storage&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="625" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="melnFsx0FvC3lrg1FxyG-112" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="660" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="melnFsx0FvC3lrg1FxyG-113" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive" vertex="1" parent="1">
+          <mxGeometry x="122.35000000000002" y="671" width="66.4" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
