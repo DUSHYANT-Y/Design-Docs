@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T12:04:53.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="np2jOZvSgw5pSfKoM7Ys" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T12:05:26.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="0MCOfsnGKRHt_iposJVz" version="21.1.2" type="github">
   <diagram name="Birds Eye View" id="2dJY-aPmXwigr7amAttw">
     <mxGraphModel dx="1643" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -257,9 +257,6 @@
         </mxCell>
         <mxCell id="melnFsx0FvC3lrg1FxyG-103" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="395" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="melnFsx0FvC3lrg1FxyG-104" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" vertex="1" parent="1">
-          <mxGeometry x="640" y="460" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="melnFsx0FvC3lrg1FxyG-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" vertex="1" parent="1">
           <mxGeometry x="110" y="500" width="72.5" height="55" as="geometry" />
